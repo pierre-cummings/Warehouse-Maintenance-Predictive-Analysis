@@ -118,3 +118,19 @@ warehouse-maintenance-predictive-analysis/
 │   └── model_findings.md
 │
 └── README.md
+
+
+## Business Value
+
+This project demonstrates how operations and maintenance data can be used for predictive decision support.
+
+It shows how historical repair events can help identify:
+
+likely high-downtime events
+higher-risk equipment categories
+repair conditions associated with longer downtime
+opportunities for better maintenance prioritization
+
+## Author
+
+Pierre Cummings
