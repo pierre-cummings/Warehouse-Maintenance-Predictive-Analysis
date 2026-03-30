@@ -71,22 +71,28 @@ This project includes:
 ## Dashboard / Visual Preview
 
 ### Class Balance
-![Class Balance](images/class_balance.png)
+<img width="1920" height="867" alt="class balance chart" src="https://github.com/user-attachments/assets/c29e3eaf-f3e6-4a25-baf2-0deea98e3d06" />
+
 
 ### Top Equipment by High Downtime Rate
-![Top Equipment by High Downtime Rate](images/top_equipment_high_downtime_rate.png)
+<img width="1920" height="876" alt="top equipment by high downtime rate" src="https://github.com/user-attachments/assets/fbe8e1c7-1dd7-4588-b300-97b689c069e0" />
+
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="1920" height="813" alt="confusion matrix" src="https://github.com/user-attachments/assets/5bbbce3e-db5a-4fe5-adeb-d99a32e91dd0" />
+
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.png)
+<img width="1920" height="878" alt="ROC curve" src="https://github.com/user-attachments/assets/03f4f405-91a4-4795-9806-47abd9e3b038" />
+
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+<img width="1920" height="872" alt="top 15 feature importance" src="https://github.com/user-attachments/assets/8846912f-dd3e-405f-9abd-26bfbb519cc1" />
+
 
 ### Highest-Risk Events
-![Highest-Risk Events](images/high_risk_events_table.png)
+<img width="1920" height="925" alt="highest-risk events table" src="https://github.com/user-attachments/assets/60ff197a-d6d6-46c6-a3be-73e8b27ea46c" />
+
 
 ---
 
