@@ -97,7 +97,7 @@ This project includes:
 ---
 
 ## Repository Structure
-
+```text
 warehouse-maintenance-predictive-analysis/
 │
 ├── data/
@@ -118,7 +118,7 @@ warehouse-maintenance-predictive-analysis/
 │   └── model_findings.md
 │
 └── README.md
-
+```
 
 
 ## Business Value
