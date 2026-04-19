@@ -127,10 +127,10 @@ This project demonstrates how operations and maintenance data can be used for pr
 
 It shows how historical repair events can help identify:
 
-likely high-downtime events
-higher-risk equipment categories
-repair conditions associated with longer downtime
-opportunities for better maintenance prioritization
+- likely high-downtime events
+- higher-risk equipment categories
+- repair conditions associated with longer downtime
+- opportunities for better maintenance prioritization
 
 ## Author
 
